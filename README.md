@@ -54,3 +54,30 @@ Implementation Details
 ![image](https://github.com/MhmoudYahia/Search-Engine/assets/94763036/738d99cd-f456-4902-9277-97ae7c0a7dbe)
 ![image](https://github.com/MhmoudYahia/Search-Engine/assets/94763036/85d780a6-55d7-496b-8333-8d1bb99a93dd)
 
+## Acknowledgements
+Thanks to the contributors who have helped build and improve this project.
+
+<table>
+  <tr>
+<td align="center">
+<a href="https://github.com/MoSobhy01" target="_black">
+<img src="https://avatars.githubusercontent.com/u/94849658?v=4" width="150px;" alt="Mahmoud Sobhy"/><br /><sub><b>Mahmoud Sobhy</b></sub></a><br />
+</td>
+
+<td align="center">
+<a href="https://github.com/MhmoudYahia" target="_black">
+<img src="https://avatars.githubusercontent.com/u/94763036?v=4" width="150px;" alt="Mahmoud Yehia"/><br /><sub><b>Mahmoud Yehia</b></sub></a><br />
+</td>
+
+<td align="center">
+<a href="https://github.com/Yousef-Rabia" target="_black">
+<img src="https://avatars.githubusercontent.com/u/78663127?v=4" width="150px;" alt="Youssef Rabia"/><br /><sub><b>Yousef Rabia</b></sub></a><br />
+</td>
+
+<td align="center">
+<a href="https://github.com/Youssef-Hagag" target="_black">
+<img src="https://avatars.githubusercontent.com/u/94843229?v=4" width="150px;" alt="Youssef Hagag"/><br /><sub><b>Youssef Hagag</b></sub></a><br />
+</td>
+
+</tr>
+ </table>
